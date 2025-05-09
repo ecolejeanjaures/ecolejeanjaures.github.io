@@ -1,0 +1,73 @@
+{
+  "landingHero": {
+    "title": "Back to school.",
+    "description": "L'art urbain prend vie dans notre ville à l'école maternelle Jean Jaures de Châtillon.",
+    "cta": {
+      "text": "Découvrir les événements",
+      "link": "events.html"
+    }
+  },
+  "events": {
+    "upcoming": [
+      {
+        "title": "Exposition de Graffiti",
+        "description": "Une exposition présentant les œuvres des meilleurs artistes de graffiti locaux et internationaux.",
+        "date": "15 Juin 2025",
+        "location": "Galerie Urbaine, Centre-ville"
+      },
+      {
+        "title": "Atelier de Street Art",
+        "description": "Apprenez les techniques de base du street art avec nos artistes professionnels.",
+        "date": "22 Juin 2025",
+        "location": "Parc Municipal"
+      },
+      {
+        "title": "Concours de Murale",
+        "description": "Participez à notre concours annuel de création de murales et gagnez des prix exceptionnels.",
+        "date": "5 Juillet 2025",
+        "location": "Quartier des Arts"
+      }
+    ],
+    "past": [
+      {
+        "title": "Exposition Urbaine 2024",
+        "description": "Rétrospective des meilleures œuvres de street art de l'année précédente.",
+        "date": "10 Janvier 2024",
+        "location": "Musée d'Art Contemporain"
+      },
+      {
+        "title": "Concours de Graffiti 2024",
+        "description": "Compétition annuelle qui a réuni plus de 50 artistes de graffiti du monde entier.",
+        "date": "15 Mars 2024",
+        "location": "Friche Industrielle"
+      }
+    ]
+  },
+  "artists": [
+    {
+      "name": "Alex Graffeur",
+      "category": "Graffiti",
+      "bio": "Spécialiste du graffiti abstrait et des compositions colorées.",
+      "socialLinks": {
+        "instagram": "#",
+        "facebook": "#",
+        "website": "#"
+      }
+    },
+    {
+      "name": "Sophie Murale",
+      "category": "Murale",
+      "bio": "Connue pour ses murales géantes et ses portraits réalistes.",
+      "socialLinks": {
+        "instagram": "#",
+        "facebook": "#",
+        "website": "#"
+      }
+    }
+  ],
+  "contact": {
+    "address": "123 Rue de l'Art Urbain, 75001 Paris, France",
+    "email": "contact@streetartfestival.com",
+    "phone": "+33 (0)1 23 45 67 89"
+  }
+}
